@@ -1,0 +1,5 @@
+- Fuente: yfinance
+- Periodo: 5y, Intervalo: 1d
+- Columnas: Date, Open, High, Low, Close, Adj Close, Volume
+- Validaciones: sin duplicados de fecha, sin valores negativos, sin NaNs en precios/volumen
+- Output: 1 Parquet por ticker en data/raw/
