@@ -1,0 +1,9 @@
+pandas
+pyarrow
+yfinance
+prefect
+mlflow
+fastapi
+uvicorn[standard]
+python-dotenv
+psycopg[binary]
